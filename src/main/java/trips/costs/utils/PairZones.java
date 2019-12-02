@@ -1,4 +1,4 @@
-package trips.costs;
+package trips.costs.utils;
 
 public class PairZones implements Comparable<PairZones> {
 	

@@ -7,6 +7,8 @@ import java.util.HashMap;
 import java.util.List;
 import java.util.Map;
 
+import trips.costs.utils.PairZones;
+
 public class Rules {
 
 	private static Map<Integer, List<String>> zonesToStations;

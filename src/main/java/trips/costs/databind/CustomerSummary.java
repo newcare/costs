@@ -1,4 +1,4 @@
-package trips.costs;
+package trips.costs.databind;
 
 import java.util.List;
 
